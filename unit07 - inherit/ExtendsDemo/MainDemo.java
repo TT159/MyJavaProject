@@ -1,11 +1,5 @@
 package ExtendsDemo;
 
-import Demo01.Airplane;
-import Demo01.Bigplane;
-import Demo01.Bullet;
-import Demo01.Hero;
-import Demo01.Sky;
-
 public class MainDemo {
 
 	public static void main(String[] args) {
