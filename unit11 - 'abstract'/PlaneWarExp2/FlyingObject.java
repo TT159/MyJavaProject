@@ -46,7 +46,7 @@ public abstract class FlyingObject {
 	}
 
 	
-	//using abstract function; generate the items flying down-words:
+	//using abstract function; generate the items flying downward:
 	//big airplane, airplane, bee
 	//create a new class plane which contains the above three classes
 	public abstract void move();
